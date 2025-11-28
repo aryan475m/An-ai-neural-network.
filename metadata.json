@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NeuroFlex: Adaptive Neural Network Simulation",
+  "description": "A visual simulation of a self-optimizing neural network that adjusts its architectural complexity based on simulated hardware load. Powered by Google Gemini.",
+  "requestFramePermissions": []
+}
